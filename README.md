@@ -128,7 +128,7 @@ I’m currently learning Embedded Systems
 
 ## Screenshots
 
-![App Screenshot](https://postimg.cc/ZWK9ftz6)
+![App Screenshot](https://i.postimg.cc/K8tn8x9p/Screenshot-2024-01-28-183715.png)
 
 
 ## 🛠 Skills
