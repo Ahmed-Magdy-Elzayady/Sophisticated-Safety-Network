@@ -3,7 +3,6 @@ Sophisticated Safety Network USING PIC18F4620 MICROCONTROLLER
 
 # How This Project Work?
 -----------------------------------------------------------------------------------------------------
-Certainly! Here's the revised version with suitable emojis at the end of each statement:
 
 A robust access control system has been implemented with user-friendly features:
 
